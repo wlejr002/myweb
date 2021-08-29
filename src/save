@@ -1,0 +1,10 @@
+<Container>
+
+      <ValueText>Jideok Soan</ValueText>
+      <li><a href="https://www.linkedin.com/in/jideok-soan-ba3a71219/">Linkedin</a></li>
+      <Textmain>jsoan@u.rochester.edu</Textmain>
+      <View>
+        {sections}
+      </View>
+
+    </Container>

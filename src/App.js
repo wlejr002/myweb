@@ -2,16 +2,9 @@ import { createTheme, ThemeProvider, makeStyles } from '@material-ui/core/styles
 import { Typography } from '@material-ui/core';
 import { View } from 'react-native'
 //import NavBar from './components/NavBar'
-import Grid from './components/Grid'
-import Footer from './components/Footer'
 import './App.css';
 //changes to imports 
-import SecurityIcon from '@material-ui/icons/Security';
-import EventNoteIcon from '@material-ui/icons/EventNote';
-import TrendingUpIcon from '@material-ui/icons/TrendingUp';
-import ImportExportIcon from '@material-ui/icons/ImportExport';
-import ComputerIcon from '@material-ui/icons/Computer';
-import HttpIcon from '@material-ui/icons/Http';
+
 
 const theme = createTheme({
   palette: {
